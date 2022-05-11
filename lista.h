@@ -7,7 +7,7 @@ typedef struct Celula_str *Apontador;
 
 typedef struct Celula_str{
 	TipoItem Item;
-	Apontador prox;
+	Apontador Prox;
 }Celula;
 
 typedef struct{
